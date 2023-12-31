@@ -1,1 +1,3 @@
-# Jogo-do-carrao
+controles:
+Wasd = mover
+E = reiniciar
